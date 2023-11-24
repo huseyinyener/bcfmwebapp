@@ -15,7 +15,6 @@ android {
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
-
     signingConfigs {
         release {
             storeFile file(filePath)
@@ -24,6 +23,7 @@ android {
             keyPassword keyPasword
         }
     }
+
 
     buildTypes {
         release {
