@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "990060899032",
+    "project_id": "test-projem-87670",
+    "storage_bucket": "test-projem-87670.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990060899032:android:70b8a630252573241f85ad",
+        "android_client_info": {
+          "package_name": "com.bcfm.androidwebapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiFkPRko_2JiNEODkgXNGr-jj_yLkpU2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990060899032:android:b67d210aafc3fbd71f85ad",
+        "android_client_info": {
+          "package_name": "com.example.androidjenkinsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiFkPRko_2JiNEODkgXNGr-jj_yLkpU2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
